@@ -1,4 +1,4 @@
-# Mona Al-Razzi — Portfolio Site
+# Mona Al-Rozzi — Portfolio Site
 
 This folder contains your full portfolio website, ready to host for free on GitHub Pages.
 
